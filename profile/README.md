@@ -27,3 +27,34 @@ Some upcoming To-Dos for this org:
 2. Discuss (either here in the Discussions section or on the Discord) the general rules and guidelines of how this community will operate so that making games in groups doesn't become a copmlete mess, and add those decisions to this README for easy viewing.
 3. Once we have the guidelines in place, focus on dicussing game ideas and what game projects to start up.
 4. Have fun and build games together!
+
+
+
+
+
+Primordial (work in progress) state of Community and Development Guidelines
+
+General Guidelines:
+1. Be excellent to each other.
+2. Games MUST have dragons (slightly joking)
+3. No usage of AI for assets or code. We have a whole community to make assets and write code.
+4. Use of other people's free asset packs is only for prototyping games. 100% of final games are done by contributors to this community.
+5. No commercialization of any projects in this github organization. All games are released online for free. If you want to make commercial games with members of the community feel free to form those groups here, but all your work must be separate from this community and therefore done on your own and off this github.
+6. Game idea discussion process...
+
+Style / Development Guidelines:
+1. Follow the official Godot style guide (https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html)
+2. Standardized script layout...
+3. Game Directory Structure...
+4. Documentation / Comments guide...
+5. Commit message labeling guide...
+
+Contributing Guidelines:
+1. Use Github Issues for each repo
+2. Use branches and pull requests
+3. Code review and merge process...
+
+Other projects:
+1. A community-made Asset Library repo for storing assets for protyping, sound effects, etc useful reusable assets
+2. Repos for any potential community-made Godot addons
+3. A community-made Components Library repo for any common reusable (composable) scenes that can be used repeatedly in games
