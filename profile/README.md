@@ -62,6 +62,5 @@ Contributing Guidelines:
 <br>
 
 Other projects:
-1. A community-made Asset Library repo for storing assets for protyping, sound effects, etc useful reusable assets
+1. A Community Asset Repository for storing community-made graphical and audio assets, template scripts, reusable (composable) scenes, visual effects, and any other kind of asset that can be reused for prototyping and development (https://github.com/Godot-Community-Games-Org/Community-Asset-Repository)
 2. Repos for any potential community-made Godot addons
-3. A community-made Components Library repo for any common reusable (composable) scenes that can be used repeatedly in games
