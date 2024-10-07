@@ -24,10 +24,9 @@ Latest updates:
 
 Some upcoming To-Dos for this org:
 
-1. Get interested parties from the reddit thread all added as organization members, and you all join the Discord server and say hi.
-2. Discuss (either here in the Discussions section or on the Discord) the general rules and guidelines of how this community will operate so that making games in groups doesn't become a copmlete mess, and add those decisions to this README for easy viewing.
-3. Once we have the guidelines in place, focus on dicussing game ideas and what game projects to start up.
-4. Have fun and build games together!
+1. Discuss on Discord the general rules and guidelines of how this community will operate so that making games in groups doesn't become a copmlete mess, and add those decisions to this README for easy viewing.
+2. Once we have the guidelines in place, focus on dicussing game ideas and what game projects to start up.
+3. Have fun and build games together!
 
 <br><br><br>
 
