@@ -4,7 +4,7 @@ This is a community of game creators making open source games together in Godot.
 
 We just started up this community on Oct 5th, so we are still in the setting up phase.
 
-<br>
+<br><br>
 
 # New to the community?
 
@@ -19,7 +19,7 @@ We just started up this community on Oct 5th, so we are still in the setting up 
 - We also have Game Design Documents being made on google docs. As we hash out ideas for each game in the Discord chats those ideas will be added to these game design docs.
 - Once we have the guidelines in place, and once we have some fairly mature game ideas, we will vote on which game to start first. Voting will likely take place on github here in the "Discussions" section above.
 
-<br>
+<br><br>
 
 # Goals for this community
 - Build and release games together and have fun
@@ -27,9 +27,7 @@ We just started up this community on Oct 5th, so we are still in the setting up 
 - Be inclusive to new Godot devs just getting started
 - Be a place where members can meet other game creators and even form their own groups to build their own personal games outside of this community
 
-<br>
-
-<br>
+<br><br>
 
 # Outline of Community and Development Guidelines
 Finalized guidelines will be added next week once guideline discussions on Discord have completed.
@@ -42,8 +40,6 @@ Finalized guidelines will be added next week once guideline discussions on Disco
 5. No commercialization of any projects in this github organization. All games are released online for free. If you want to make commercial games with members of the community feel free to form those groups here, but all your work must be separate from this community and therefore done on your own and off this github.
 6. Game idea discussion process...
 
-<br>
-
 ### Style / Development Guidelines:
 1. Follow the official Godot style guide (https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html)
 2. Standardized script layout...
@@ -51,14 +47,12 @@ Finalized guidelines will be added next week once guideline discussions on Disco
 4. Documentation / Comments guide...
 5. Commit message labeling guide...
 
-<br>
-
 ### Contributing Guidelines:
 1. Use Github Issues for each repo
 2. Use branches and pull requests
 3. Code review and merge process...
 
-<br>
+<br><br>
 
 # Repositories Guide
 These are the types of repositories we will be hosting.
