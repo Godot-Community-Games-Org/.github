@@ -32,7 +32,7 @@ We just started up this community on Oct 5th, so we are still in the setting up 
 <br>
 
 # Outline of Community and Development Guidelines
-Finalized guidelines will be added next week once guideline discussion on Discord has comlpeted.
+Finalized guidelines will be added next week once guideline discussions on Discord have completed.
 
 ### General Guidelines:
 1. Be excellent to each other.
