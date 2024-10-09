@@ -1,40 +1,40 @@
-## Hi there 👋
+# Hi there and Welcome to the Godot Community Games Organization 👋
 
 This is a community of game creators making open source games together in Godot. Not affiliated with the Godot Foundation, just a community of Godudes and Godudettes.
 
-Let's chat on the Discussions page and the Discord server (invite link: https://discord.gg/BxudvMV2)
-Come say hi and we can work on figuring out how this whole thing will work and what guidelines we'll follow and all that fun logistics stuff!
-
-And eventually we'll figure out what game (or games! no reason everyone needs to work on a single game) to build!
+We just started up this community on Oct 5th, so we are still in the setting up phase.
 
 <br>
 
-Goals for this community:
-- Build games together and have fun
+# New to the community?
+
+### Joining the community:
+1. If you aren't a member of this github organization yet and want to join the community, email godot.community.games@gmail.com, please state in your email that you would like to join the group and include your github username.
+2. Head over to our Discord server (invite link: https://discord.gg/BxudvMV2) to join the community discussion.
+3. Fill out this email form (https://forms.gle/WQjPfXPYveGaGzAf7) so you can be given access to the google docs where we keep the Game Design Docs. You will be able to comment on the docs.
+
+### Current Events in the community you need to know about:
+- We are discussing community and development guidelines this week. Go to the Discord to join the discussion in the "Community Guidelines" channels under the "initial-direction-and-planning" forum. We are hoping to have the guidelines agreed upon by Monday Oct 14th, at which point the finalized Guidelines will be added to this README for all to see.
+- We are discussing game ideas on Discord in the "game-idea-discussions" section.
+- We also have Game Design Documents being made on google docs. As we hash out ideas for each game in the Discord chats those ideas will be added to these game design docs.
+- Once we have the guidelines in place, and once we have some fairly mature game ideas, we will vote on which game to start first. Voting will likely take place on github here in the "Discussions" section above.
+
+<br>
+
+# Goals for this community
+- Build and release games together and have fun
 - Be a learning resource for Godot game creators
 - Be inclusive to new Godot devs just getting started
-- Be a place where members can meet other game creators and even form their own groups outside of this community to make their own personal group games
+- Be a place where members can meet other game creators and even form their own groups to build their own personal games outside of this community
 
 <br>
 
-Latest updates:
-1. Thanks go to StrawberrySmoothieDev who created a "Godot Community Game Development Project" Discord. Invite link: https://discord.gg/BxudvMV2
-
 <br>
 
-Some upcoming To-Dos for this org:
+# Outline of Community and Development Guidelines
+Finalized guidelines will be added next week once guideline discussion on Discord has comlpeted.
 
-1. Discuss on Discord the general rules and guidelines of how this community will operate so that making games in groups doesn't become a copmlete mess, and add those decisions to this README for easy viewing.
-2. Once we have the guidelines in place, focus on dicussing game ideas and what game projects to start up.
-3. Have fun and build games together!
-
-<br><br><br>
-
-Primordial (work in progress) state of Community and Development Guidelines
-
-<br>
-
-General Guidelines:
+### General Guidelines:
 1. Be excellent to each other.
 2. Games MUST have dragons (slightly joking)
 3. No usage of AI for assets or code. We have a whole community to make assets and write code.
@@ -44,7 +44,7 @@ General Guidelines:
 
 <br>
 
-Style / Development Guidelines:
+### Style / Development Guidelines:
 1. Follow the official Godot style guide (https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_styleguide.html)
 2. Standardized script layout...
 3. Game Directory Structure...
@@ -53,13 +53,16 @@ Style / Development Guidelines:
 
 <br>
 
-Contributing Guidelines:
+### Contributing Guidelines:
 1. Use Github Issues for each repo
 2. Use branches and pull requests
 3. Code review and merge process...
 
 <br>
 
-Other projects:
-1. A Community Asset Repository for storing community-made graphical and audio assets, template scripts, reusable (composable) scenes, visual effects, and any other kind of asset that can be reused for prototyping and development (https://github.com/Godot-Community-Games-Org/Community-Asset-Repository)
-2. Repos for any potential community-made Godot addons
+# Repositories Guide
+These are the types of repositories we will be hosting.
+- Repos for each game we are building
+- Repos for prototypes of games
+- A Community Asset Repository for storing community-made graphical and audio assets, template scripts, reusable (composable) scenes, visual effects, and any other kind of asset that can be reused for prototyping and development (https://github.com/Godot-Community-Games-Org/Community-Asset-Repository)
+- In the future we may have repos for any potential community-made Godot addons
