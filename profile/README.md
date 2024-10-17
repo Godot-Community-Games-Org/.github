@@ -10,7 +10,7 @@ We just started up this community on Oct 5th, so we are still in the setting up 
 
 ### Joining the community:
 1. If you aren't a member of this github organization yet and want to join the community, email godot.community.games@gmail.com, please state in your email that you would like to join the group and include your github username. If you are new to Github (or Git itself) check out some of the links on this page -> (https://docs.github.com/en/get-started) to get started.
-2. Head over to our Discord server (invite link: https://discord.gg/BxudvMV2) to join the community discussion.
+2. Head over to our Discord server (invite link: https://discord.gg/sA9reuEpZH) to join the community discussion.
 3. Fill out this email form (https://forms.gle/WQjPfXPYveGaGzAf7) so you can be given access to the google docs where we keep the Game Design Docs. You will be able to comment on the docs. Emails are only added to the group from this form so please do this. The email list is only used for giving people access to the Game Design Docs.
 
 ### Current Events in the community you need to know about:
